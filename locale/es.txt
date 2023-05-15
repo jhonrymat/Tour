@@ -1,0 +1,35 @@
+#: locale=es
+
+## Media
+
+### Subtítulos de Video
+
+### Título
+media_081EFBFB_1FED_EFAF_418C_3E3F4476F33E.label = Descargar video 360 gratis Mar mediterráneo con sonido 01 Descargas360
+panorama_08BDBF33_1FFA_E8BF_41BA_7FCB4430B064.label = IMG_20230315_135012_00_093
+panorama_0A2EA66B_1FFA_98AF_41A0_16FC817248A9.label = IMG_20230315_135058_00_094
+
+### Video
+videores_07D0BD74_1F95_E8B9_4192_165B7E3A29A9.url = media/media_081EFBFB_1FED_EFAF_418C_3E3F4476F33E_es.mp4
+videores_07F559A1_1FAD_A85B_41A6_92EA5316F0A1.url = media/media_081EFBFB_1FED_EFAF_418C_3E3F4476F33E_es_1.mp4
+videores_07D0BD74_1F95_E8B9_4192_165B7E3A29A9.posterURL = media/media_081EFBFB_1FED_EFAF_418C_3E3F4476F33E_poster_es.jpg
+videores_07F559A1_1FAD_A85B_41A6_92EA5316F0A1.posterURL = media/media_081EFBFB_1FED_EFAF_418C_3E3F4476F33E_poster_es.jpg
+
+### Video 360
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = prueba
+
+## Ventana
+
+### Cuerpo
+htmlText_081DC251_1FEE_98FB_41B7_66A916790E01.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Hola mundo</SPAN></DIV></BODY></HTML></div>
+htmlText_07B2C976_1F95_A8A6_41A9_0EEEF8A5869D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">prueba de video</SPAN></DIV></BODY></HTML></div>
+
+### Título
+window_081D8251_1FEE_98FB_4175_A8FED970C7A6.title = Hola mundo titulo
+window_07B0F975_1F95_A8BA_4177_19D61A9CCF62.title = ddddd
